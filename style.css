@@ -11,7 +11,7 @@ body{
 .body {
     box-sizing: border-box;
     width: 350px;
-    height: 550px;
+    height: 525px;
     background-color: black;
     display: flex;
     flex-direction: column;
@@ -35,5 +35,24 @@ body{
 .buttons {
     background-color: aquamarine;
     width: 300px;
-    flex: 2 1 auto;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+.column {
+    flex: 1 1 auto;
+    background-color: beige;
+    box-sizing: border-box;
+    border: solid 1px black;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    flex: 1 1 auto;
+    background-color: beige;
+    box-sizing: border-box;
+    border: solid 1px black;
 }
