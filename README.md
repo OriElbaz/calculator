@@ -1,7 +1,3 @@
-Certainly — here’s a clean, professional `README.md` version with no emojis:
-
----
-
 # Calculator Project
 
 This is a simple web-based calculator built using **JavaScript**, **HTML**, and **CSS**. It was developed as part of [The Odin Project](https://www.theodinproject.com/) Foundations curriculum and is designed to reinforce core programming concepts through a practical, interactive project.
